@@ -11,5 +11,7 @@ Code Modules can be found as .py files under Scripts.
 ### Toggle Switch
 The Open/Closed toggle switch is a basic state machine between on or off which is to be used with regards to opening/closing valves on the rocket. Actuation using it can be tested using a simple LED/resistor circuit on a breadboard, or connecting the switch 'output' to an LED on the LabJack.
 
+Sourced from pyQT example state based code.
+
 ### Needle Valve Slider
 The needle valve actuator is a draft slider switch that can be used to control how opeon the valve is.
