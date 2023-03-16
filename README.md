@@ -8,6 +8,9 @@ The GUI has a single main screen, from which sensor data can be read, and valves
 ## Current Modules
 Code Modules can be found as .py files under Scripts.
 
+## Required packages
+PySide6
+
 ### Toggle Switch
 The Open/Closed toggle switch is a basic state machine between on or off which is to be used with regards to opening/closing valves on the rocket. Actuation using it can be tested using a simple LED/resistor circuit on a breadboard, or connecting the switch 'output' to an LED on the LabJack.
 
