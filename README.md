@@ -6,9 +6,7 @@ This GUI has the primary and broader purpose of visualising rocket sensor data a
 The GUI has a single main screen, from which sensor data can be read, and valves can be actuated. Functionality in regards to displaying graphical data and locating sensors on PID diagram will be added in time.
 
 ## Current Modules
-Code Modules can be found as .py files under Scripts.
-
-## Required packages
+#### Required packages
 PySide6
 
 ### Toggle Switch
